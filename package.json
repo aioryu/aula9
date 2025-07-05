@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^24.0.10",
+    "queue": "^7.0.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
